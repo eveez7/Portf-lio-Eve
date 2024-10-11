@@ -1,12 +1,10 @@
-
-
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 :root{
-  --cor-fundo:#2C1838;
-  --cor-destaque:#9754C0;
-  --cor-texto: #fefefe;
+  --cor-fundo:#471717;
+  --cor-destaque:#000000;
+  --cor-texto: #ffffff;
 }
 *{
   margin: 0;
@@ -61,4 +59,4 @@ background-color: var(--cor-fundo);
 }
 .apresentacao__conteudo__texto{
   font-size: 24px;
-}
+
